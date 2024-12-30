@@ -39,5 +39,7 @@ This project demonstrates how to:
 
 ## Results
 **Basic Insights**: Distribution of customers by city/state, total category sales, etc.
+
 **Intermediate Insights**: Monthly trends, seller performance, and revenue contributions.
+
 **Advanced Insights**: Customer retention, cumulative sales, and top spenders over time.
